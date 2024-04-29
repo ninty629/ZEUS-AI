@@ -13,7 +13,7 @@
 <a href="#"><img title="Creator" src="https://img.shields.io/badge/Creator-CLASSIV_CLASSIC-red.svg?style=for-the-badge&logo=github"></a>
 </p>
 <p align="center">
-<a href="'https://wa.me/+254703542294yoh+𝑪⃪𝒍⃪𝒂⃪𝒔⃪𝒔⃪𝒊⃪𝒄⃪⸼ +nishow+venye+nitadeploy+classic-ai'"><img title="Whatsapp" src="'https://wa.me/244703542294yoh+𝑪⃪𝒍⃪𝒂⃪𝒔⃪𝒔⃪𝒊⃪𝒄⃪⸼ +nishow+venye+nitadeploy+classic'?color=green&style=flat-square"></a>
+<a href="'https://wa.me/+254741188211yoh+𝐙𝐞𝐮𝐬 +nishow+venye+nitadeploy+classic-ai'"><img title="Whatsapp" src="'https://wa.me/254741188211yoh+𝐙𝐞𝐮𝐬 +nishow+venye+nitadeploy+classic'?color=green&style=flat-square"></a>
   
 <a href="https://wa.me/254703542294yohyoh+𝑪⃪𝒍⃪𝒂⃪𝒔⃪𝒔⃪𝒊⃪𝒄⃪⸼"><img title="Twitter" src="https://x.com/NSirm5?s=09?color=black&style=flat-square"></a>
 <a href="https://github.com/Samue-l1/Black-Mamba-Ai/network/members"><img title="Forks" src="https://img.shields.io/github/for/Samue-l1/Black-Mamba-Ai?color=yellow&style=flat-square"></a>
