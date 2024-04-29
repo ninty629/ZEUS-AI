@@ -17,9 +17,7 @@
   
 
 
-<a href="https://github.com/Samue-l1/Black-Mamba-Ai/"><img title="Size" src="https://img.shields.io/github/repo-size/AlipBot/Api-Alpis?style=flat-square&color=darkred"></a>
-<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/Samue-l1/Black-Mamba-Ai/%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=probot.svg&icon_color=%2304FF00&title=hits&edge_flat=false"/></a>
-<a href="https://github.com/Samue-l1/Black-Mamba-Ai/graphs/commit-activity"><img height="20" src="https://img.shields.io/badge/Maintained-No-red.svg"></a>&nbsp;&nbsp;
+
 </p>
  
  𝐃𝐄𝐏𝐋𝐎𝐘 𝐓𝐎 𝐇𝐄𝐑𝐎𝐊𝐔 𝐕𝐈𝐀 𝐓𝐇𝐄 𝐋𝐈𝐍𝐊 𝐁𝐄𝐋𝐎𝐖 + 𝐘𝐎𝐔𝐑 𝐑𝐄𝐏𝐎 𝐋𝐈𝐍𝐊 𝐀𝐅𝐓𝐄𝐑 𝐘𝐎𝐔 𝐇𝐀𝐕𝐄 𝐏𝐔𝐓 𝐘𝐎𝐔𝐑 𝐅𝐈𝐋𝐄 𝐓𝐎 "𝘿𝙍𝙀𝘼𝘿𝙀𝘼𝘿1" 𝐅𝐎𝐋𝐃𝐄𝐑.
