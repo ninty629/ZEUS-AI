@@ -78,7 +78,7 @@ Linking/Pairing:[https://replit.com/@17minutesago/-?s=app]
 
 
 
-Incase you're facing any problems with the deployments, contact me  [here](https://wa.me/263785189764) via WhatsApp or [here](17minutesago@gmail.com) via Email.
+Incase you're facing any problems with the deployments, contact me  [here](https://wa.me/254741188211) via WhatsApp or [here](17minutesago@gmail.com) via Email.
 
 Modifying the bot structure is at your own risk. We won't offer technical support in case of errors resulting!
 
