@@ -34,7 +34,7 @@ DEPLOY ON HEROKU<br>
   <br>
   
 
-***Made on Earth by 𝐂𝐋𝐀𝐒𝐒𝐈𝐂***
+***Made on Earth by 𝐋𝐔𝐂𝐀𝐒***
 
 
 ***This bot is created with the help of NodeJS and uses [Baileys](https://github.com/adiwajshing/Baileys)***
@@ -46,11 +46,11 @@ You will need an openai API key for AI features to work.
 
 # SET-UP
 
-Linking/Pairing:[https://replit.com/@pesguru02/Pairing-Classic-Ai]
+Linking/Pairing:[https://replit.com/@17minutesago/-?s=app]
 
 
 ## ` Pair On reptil`
-<h2 align="left">  <a href="[https://replit.com/@pesguru02/Pairing-Classic-Ai](https://replit.com/@pesguru02/Pairing-Classic-Ai)"><img src="https://repl.it/badge/github/quiec/whatsasena" /> 
+<h2 align="left">  <a href="[https://replit.com/@17minutesago/-?s=app](https://replit.com/@17minutesago/-?s=app)"><img src="https://repl.it/badge/github/quiec/whatsasena" /> 
 </a>
 </h2>
 
@@ -81,7 +81,7 @@ Linking/Pairing:[https://replit.com/@pesguru02/Pairing-Classic-Ai]
 
 
 
-Incase you're facing any problems with rhe deployments, contact me  [here](https://wa.me/263785189764) via WhatsApp or [here](samuelcircute@gmail.com) via Email.
+Incase you're facing any problems with the deployments, contact me  [here](https://wa.me/263785189764) via WhatsApp or [here](17minutesago@gmail.com) via Email.
 
 Modifying the bot structure is at your own risk. We won't offer technical support in case of errors resulting!
 
@@ -90,5 +90,5 @@ Modifying the bot structure is at your own risk. We won't offer technical suppor
 
 [MIT License](https://github.com/Samue-l1/Black-Mamba-Ai/blob/main/LICENSE)
 
-Copyright (c) 2024  𝐂𝐋𝐀𝐒𝐒𝐈𝐂
+Copyright (c) 2024  𝐙𝐄𝐔𝐒
 
