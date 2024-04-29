@@ -257,7 +257,7 @@ var lod = [
 "《 ████████████》100%",
 "	✦𝐋𝐨𝐚𝐝𝐞𝐝 𝐬𝐮𝐜𝐜𝐞𝐬𝐬𝐟𝐮𝐥 𝐛𝐲 𝐋𝐮𝐜𝐚𝐬! ☫"
 ]
-let { key } = await client.sendMessage(from, {text: '𝐋𝐨𝐚𝐝𝐞𝐝 𝐬𝐮𝐜𝐜𝐞𝐬𝐬𝐟𝐮𝐥 𝐛𝐲 𝐂𝐥𝐚𝐬𝐬𝐢𝐜! ☬...'})
+let { key } = await client.sendMessage(from, {text: '𝐋𝐨𝐚𝐝𝐞𝐝 𝐬𝐮𝐜𝐜𝐞𝐬𝐬𝐟𝐮𝐥 𝐛𝐲 𝐋𝐮𝐜𝐚𝐬! ☬...'})
 
 for (let i = 0; i < lod.length; i++) {
 await client.sendMessage(from, {text: lod[i], edit: key });
@@ -384,7 +384,7 @@ case "help":
 		      await loading ()
 
 let cap = `┏━━━━━━━━━━━━━━━━━━┓
-┃     ▇ ◆  𝐙𝐄𝐔𝐒 𝐕9  ◆ █
+┃     ▇ ◆  𝐙𝐄𝐔𝐒 𝐕11  ◆ █
 ┃🗿┏━━━━━━━━━━━━━━━┛
 ┃🗿┃ 𝗢𝘄𝗻𝗲𝗿 : 𝐌.𝐋𝐔𝐂𝐀𝐒.𝐌
 ┃🗿┃ 𝗨𝘀𝗲𝗿 : ${m.pushName}︎︎
@@ -524,7 +524,7 @@ let cap = `┏━━━━━━━━━━━━━━━━━━┓
 if (menu === 'VIDEO') {
 
                    client.sendMessage(m.chat, {
-                        video: fs.readFileSync('./Classic.mp4'),
+                        video: fs.readFileSync('./Zeus.mp4'),
                         caption: cap,
 			sourceUrl: "https://chat.whatsapp.com/EPSGKau0IVi7J5lyOJO7Jk",   
                         gifPlayback: true
@@ -542,10 +542,10 @@ client.sendMessage(m.chat, {
                         contextInfo: {
                             externalAdReply: {
                                 showAdAttribution: true,
-                                title: `𝐂𝐋𝐀𝐒𝐒𝐈𝐂-𝐀𝐈`,
+                                title: `𝐙𝐄𝐔𝐒-𝐀𝐈`,
                                 body: `${runtime(process.uptime())}`,
                                 thumbnail: fs.readFileSync('./𝐁𝐥𝐚𝐜𝐤_𝐌𝐚𝐦𝐛𝐚_𝐀𝐈.jpg'),
-                                sourceUrl: 'https://wa.me/254742491666?text=ʜᴇʟʟᴏ+𝐈𝐭𝐬_𝐒𝐢𝐫𝐦™𝕏+Nihostie+Bot+Mkuu+🥲',
+                                sourceUrl: 'https://wa.me/254741188211?text=ʜᴇʟʟᴏ+𝐈𝐭𝐬_𝐒𝐢𝐫𝐦™𝕏+Nihostie+Bot+Mkuu+🥲',
                                 mediaType: 1,
                                 renderLargerThumbnail: true
                             }
