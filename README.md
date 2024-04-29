@@ -13,7 +13,7 @@
 <a href="#"><img title="Creator" src="https://img.shields.io/badge/Creator-LUCAS_ZEUS-red.svg?style=for-the-badge&logo=github"></a>
 </p>
 <p align="center">
-<a href="'https://wa.me/+254741188211yoh+𝐙𝐞𝐮𝐬 +nishow+venye+nitadeploy+classic-ai'"><img title="Whatsapp" src="'https://wa.me/254741188211yoh+𝐙𝐞𝐮𝐬 +nishow+venye+nitadeploy+classic'?color=green&style=flat-square"></a>
+
   
 
 
@@ -61,7 +61,7 @@ Linking/Pairing:[https://replit.com/@17minutesago/-?s=app]
     
 <h2 align="center">   
 
-- Fork this repo by tapping  [here](https://github.com/Samue-l1/Black-Mamba-Ai/fork)
+- Fork this repo by tapping  [here](https://github.com/ninty629/ZEUS-AI/fork)
 
 
 - Upload the creds.json that you received to the dreaded1 folder.
@@ -85,7 +85,7 @@ Modifying the bot structure is at your own risk. We won't offer technical suppor
 
 ## License
 
-[MIT License](https://github.com/Samue-l1/Black-Mamba-Ai/blob/main/LICENSE)
+[MIT License](https://github.com/ninty629/ZEUS-AI/blob/main/LICENSE)
 
 Copyright (c) 2024  𝐙𝐄𝐔𝐒
 
