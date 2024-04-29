@@ -1,13 +1,13 @@
-# 𝐂𝐋𝐀𝐒𝐒𝐈𝐂-𝐀𝐈
+# 𝐙𝐄𝐔𝐒-𝐀𝐈
 <div align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=50&pause=1000&color=1BAFBAFF&center=true&width=910&height=100&lines=𝐂𝐋𝐀𝐒𝐒𝐈𝐂-𝐀𝐈;WHATSAPP+BOT;CREATED+BY+Classic" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=50&pause=1000&color=1BAFBAFF&center=true&width=910&height=100&lines=𝐙𝐄𝐔𝐒-𝐀𝐈;WHATSAPP+BOT;CREATED+BY+𝐋𝐔𝐂𝐀𝐒" alt="Typing SVG" /></a>
   </p>
   
 <p align="center">
-<img src="https://telegra.ph/file/de1e1073b8a908e9af1d6.jpg" width="650" height="500"/>
+<img src="https://telegra.ph/file/0ab16197e4c2cfbc25356.jpg" width="650" height="500"/>
 </p>
 <p align="center">
-  <a href="#"><img src="http://readme-typing-svg.herokuapp.com?color=d1fa02&center=true&vCenter=true&multiline=false&lines=CLASSIC+WHATSAPP+BOT" alt="">
+  <a href="#"><img src="http://readme-typing-svg.herokuapp.com?color=d1fa02&center=true&vCenter=true&multiline=false&lines=ZEUS+WHATSAPP+BOT" alt="">
 </p>
 <p align="center">
 <a href="#"><img title="Creator" src="https://img.shields.io/badge/Creator-CLASSIV_CLASSIC-red.svg?style=for-the-badge&logo=github"></a>
