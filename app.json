@@ -1,6 +1,6 @@
 {
-  "name": "Classic-ai",
-  "description": "☯☯𝐜𝐥𝐚𝐬𝐬𝐢𝐜 𝐯2☯☯",
+  "name": "Zeus-ai",
+  "description": "☯☯𝐳𝐞𝐮𝐬 𝐯11☯☯",
   "keywords": [
     "bot",
     "whatsapp",
@@ -14,8 +14,8 @@
     "baileys-md",
     "md-bot"
   ],
-  "website": "https://github.com/Samue-l1/Black-Mamba-Ai#readme",
-  "repository": "https://github.com/Samue-l1/Black-Mamba-Ai.git",
+  "website": "https://github.com/ninty629/ZEUS-AI#readme",
+  "repository": "https://github.com/ninty629/ZEUS-AI.git",
   "logo": "https://telegra.ph/file/fb0e2c3051742f6196453.jpg",
   "success_url": "/",
   "env": {
