@@ -1120,7 +1120,7 @@ await m.reply('𝐑𝐞𝐦𝐨𝐯𝐞𝐝 𝐬𝐮𝐜𝐜𝐞𝐬𝐬𝐟𝐮
  case 'sc': case 'script': case 'repo':
 
  client.sendMessage(m.chat, { image: { url: `https://telegra.ph/file/8b12332b03df8082ab7a5.jpg` }, caption: 
-`👋🏻 Hi *${pushname}*,You can deploy 𝐙𝐄𝐔𝐒 𝐀𝐈 using the GitHub link below🌌\n\nFork and give us a star✨.\n\n https://github.com/Samue-l1/Black-Mamba-Ai\n\nEnjoy and have fun with the bot🔥...\n\nUse the link below to pair 𝐙𝐄𝐔𝐒 𝐀𝐈 without scanning any qr code\n\n [https://replit.com/@17minutesago/-?s=app]\n\nMade on Earth by 𝐋𝐔𝐂𝐀𝐒` });
+`👋🏻 Hi *${pushname}*,You can deploy 𝐙𝐄𝐔𝐒 𝐀𝐈 using the GitHub link below🌌\n\nFork and give us a star✨.\n\n https://github.com/ninty629/ZEUS-AI\n\nEnjoy and have fun with the bot🔥...\n\nUse the link below to pair 𝐙𝐄𝐔𝐒 𝐀𝐈 without scanning any qr code\n\n [https://replit.com/@17minutesago/-?s=app]\n\nMade on Earth by 𝐋𝐔𝐂𝐀𝐒` });
 
    break;
                                                   
