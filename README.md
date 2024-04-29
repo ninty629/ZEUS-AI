@@ -15,9 +15,8 @@
 <p align="center">
 <a href="'https://wa.me/+254741188211yoh+𝐙𝐞𝐮𝐬 +nishow+venye+nitadeploy+classic-ai'"><img title="Whatsapp" src="'https://wa.me/254741188211yoh+𝐙𝐞𝐮𝐬 +nishow+venye+nitadeploy+classic'?color=green&style=flat-square"></a>
   
-<a href="https://wa.me/254703542294yohyoh+𝑪⃪𝒍⃪𝒂⃪𝒔⃪𝒔⃪𝒊⃪𝒄⃪⸼"><img title="Twitter" src="https://x.com/NSirm5?s=09?color=black&style=flat-square"></a>
-<a href="https://github.com/Samue-l1/Black-Mamba-Ai/network/members"><img title="Forks" src="https://img.shields.io/github/for/Samue-l1/Black-Mamba-Ai?color=yellow&style=flat-square"></a>
-<a href="https://github.com/Samue-l1/Black-Mamba-Ai/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/drexmose/drex-ai?label=Watchers&color=red&style=flat-square"></a>
+
+
 <a href="https://github.com/Samue-l1/Black-Mamba-Ai/"><img title="Size" src="https://img.shields.io/github/repo-size/AlipBot/Api-Alpis?style=flat-square&color=darkred"></a>
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/Samue-l1/Black-Mamba-Ai/%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=probot.svg&icon_color=%2304FF00&title=hits&edge_flat=false"/></a>
 <a href="https://github.com/Samue-l1/Black-Mamba-Ai/graphs/commit-activity"><img height="20" src="https://img.shields.io/badge/Maintained-No-red.svg"></a>&nbsp;&nbsp;
